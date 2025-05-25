@@ -31,7 +31,7 @@ Includes user registration, pet filtering features, and dedicated sections for b
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/paws-for-hearts.git
+   git clone https://github.com/priyankamorajkar/paws-for-hearts.git
    cd paws-for-hearts
    ```
 2. Set Up the Local Server
