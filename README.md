@@ -1,4 +1,4 @@
-# Paws for Hearts – Rescue Animal Adoption Website
+# Paws for Hearts - Rescue Animal Adoption Website
 
 A PHP & MySQL-powered web platform built to help rescued animals find loving homes.  
 Includes user registration, pet filtering features, and dedicated sections for blogs, contact, and more.
